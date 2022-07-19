@@ -1,0 +1,19 @@
+Binary Tree (BT):
+
+BT: each node can have at most 2 children
+root
+left child
+right child
+leaf - node with zero nodes
+
+Depth or Level
+Max no of nodes at level i = 2^i
+Max no of nodes in a tree with height h 
+   = 2^0 + 2^1 + 2^2 + .... + 2^h
+   = 2^h+1 -1
+   = 2^(no.of levels) - 1
+   
+ Height of perfect binary tree with n nodes = log(n+1)base2-1
+ Height of complete binary tree with n nodes = floor(lognbase2)
+ 
+ Implement BT using linked list and Arrays

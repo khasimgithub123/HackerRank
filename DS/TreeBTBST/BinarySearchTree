@@ -1,0 +1,10 @@
+BinarySearchTree(BST):
+
+Array: Search(x), Insert(x), Remove(x)  best case and worst case
+Array sorted: O(lognbase2), O(n), O(n)
+
+BST: O(lognbase2), O(lognbase2), O(lognbase2)
+
+BST: A binary tree in which for each node, value of all the nodes in left subtree is lesser or equal and 
+value of all the nodes in right subtree is greater.
+
