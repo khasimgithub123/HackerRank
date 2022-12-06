@@ -1,3 +1,5 @@
+
+// Actually reversing the linked list
 // C/C++ program to reverse linked list
 // using stack
  
