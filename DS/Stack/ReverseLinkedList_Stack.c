@@ -1,8 +1,8 @@
 
 
 
-
-//Reverse linked list using stack
+// only reverse printing the data (not reversing the linkedlist)
+// Reverse linked list using stack
 
 #include <stdio.h>
 #include <stdlib.h>
