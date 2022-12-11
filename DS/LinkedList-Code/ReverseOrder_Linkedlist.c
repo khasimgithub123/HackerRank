@@ -1,7 +1,7 @@
 
 
 
-//print linked list in reverse order without actually reversing
+//print linked list in reverse order without actually reversing using recursion
 
 #include<stdio.h>
 #include<stdlib.h>
