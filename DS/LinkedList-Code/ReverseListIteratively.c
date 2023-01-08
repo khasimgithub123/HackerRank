@@ -2,6 +2,8 @@
  * C program to reverse a Singly Linked List
  */
 
+// Actually reverse linked list and print reversed linked iteratively
+
 #include <stdio.h>
 #include <stdlib.h>
 
