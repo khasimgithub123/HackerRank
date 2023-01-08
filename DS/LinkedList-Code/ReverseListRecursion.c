@@ -1,3 +1,6 @@
+
+//print linked list in reversed order using recursion
+
 #include <stdio.h>
  
 /* Define struct */
