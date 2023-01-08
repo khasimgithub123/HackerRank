@@ -1,5 +1,5 @@
 
-//print linked list in reversed order using recursion
+//print linked list after actually reversing linkedlist using recursion
 
 #include <stdio.h>
  
