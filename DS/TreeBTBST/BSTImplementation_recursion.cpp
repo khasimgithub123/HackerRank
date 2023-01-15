@@ -1,5 +1,6 @@
 
-// Binary Search Tree - Implemenation in C++
+// Binary Search Tree - Implemenation in C++ using Recursion
+
 // Simple program to create a BST of integers and search an element in it 
 #include<iostream>
 using namespace std;
